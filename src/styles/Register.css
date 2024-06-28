@@ -1,0 +1,16 @@
+.form-container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+}
+.card{
+    border:1px solid rgb(7, 131, 239);
+    box-shadow: 1px 1px 2px rgb(7, 131, 239);
+}
+.register-form{
+    width:400px;
+}
+.link{
+    color:rgba(11, 11, 254, 0.682) !important;
+}
